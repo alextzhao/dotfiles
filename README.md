@@ -18,7 +18,7 @@ Many of the set up instructions are derived / enhanced from http://sourabhbajaj.
   
 ## Atom
 Install the package "sync-settings" and restore the packages:
-    - Personal Access Token: 7e1316e23787d3e82186d0707f633037ccd9eb18
+    - Personal Access Token: See 1Password / Github
     - Gist Id: f9c1c4163d4ed48fa93c68ff6d1e959a
 
 
