@@ -4,6 +4,24 @@ This repository contains the everything that I need to set up my mac.
 
 Many of the set up instructions are derived / enhanced from http://sourabhbajaj.com/mac-setup/
 
+## Applications:
+    - Alfred
+    - Evernote
+    - 1Password
+    - Slack
+    - Astro Email Client
+    - Xcode
+    
+## Developer Tools
+    - iTerm
+    - Sexy Bash Prompt: https://github.com/twolfson/sexy-bash-prompt
+  
+## Atom
+Install the package "sync-settings" and restore the packages:
+    - Personal Access Token: See 1Password / Github
+    - Gist Id: f9c1c4163d4ed48fa93c68ff6d1e959a
+
+
 ## iTerm
 1. Download iTerm2
 2. Replace `~/.bash_profile` file with the one in this repository
