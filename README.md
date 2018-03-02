@@ -45,7 +45,7 @@ Install the package "sync-settings" and restore the packages:
     - Under the General tab, check the box "Load preferences from a custom folder or URL"
     - Press "Browse" and point to `~/dotfiles/iTerm2_profile`               
 
-
+5. Use this link to set up git autocompletion: https://stackoverflow.com/questions/21897728/how-to-toggle-running-xcode-project-in-debug-or-release-mode-by-using-only-short
 
 
 
